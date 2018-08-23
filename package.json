@@ -8,7 +8,7 @@
         "url": "https://github.com/usablica/intro.js"
     },
     "devDependencies": {
-        "node-minify": "*"
+        "node-minify": ">=3.4.0"
     },
     "engine": [
         "node >=0.1.90"
